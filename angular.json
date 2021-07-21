@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Angular-Login-Auth-Firbase"
+  "defaultProject": "Angular-Login-Auth-Firbase",
+  "cli": {
+    "analytics": "0f72ccfd-c6ed-494d-9307-6873fdd10a62"
+  }
 }
